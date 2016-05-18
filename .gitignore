@@ -194,3 +194,4 @@ fabric.properties
 # *.iml
 # modules.xml
 
+*.sqlite
