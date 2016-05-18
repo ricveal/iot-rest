@@ -41,4 +41,4 @@ api.add_resource(TemperatureList, '/api/v1.0/temperature', endpoint='temperature
 api.add_resource(Temperature, '/api/v1.0/temperature/<string:id>', endpoint='temperature')
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0')
