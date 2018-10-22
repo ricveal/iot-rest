@@ -1,3 +1,5 @@
+⚠️ UNMAINTAINED ⚠️
+
 Backend and Sensor Sketch to config a RESTful API that connects the info from the sensor (Arduino) with an SQL Database (In this example SQLITE).
 
 ## Installation
